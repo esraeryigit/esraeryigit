@@ -10,16 +10,16 @@
 
 <br>
 <br>
- I am  working as a Frontend Developer. I am designing web pages using Figma and Miro. I code the pages I design with Html, Css and Javascript.I'm  currently working on ReactJs , I'll add what I've done about React here soon.
+ I am  working as a Frontend Developer. I am designing web pages using Figma and Miro. I code the pages I design with Html, Css and Javascript.I'm  currently working on ReactJs , I'll add what I've done about ReactJs here soon.
  
- <br>
+<br>
 <br>
 <br>
 
 Connect with me:
 
 <a href="https://linkedin.com/in/iremkomurcu" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <br>
