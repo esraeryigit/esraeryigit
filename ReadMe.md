@@ -10,7 +10,7 @@
 
 <br>
 <br>
- I am  working as a Frontend Developer. I am designing web pages using Figma and Miro. I code the pages I design with Html, Css and Javascript.I'm  currently working on .Net, C# , I'll add what I've done about projects here soon.
+ I am  working as a Sofware Developer. I am designing web pages using Figma and Miro. I code the pages I design with Html, Css and Javascript.I'm  currently working on .Net, C# , I'll add what I've done about projects here soon.
  
 <br>
 <br>
